@@ -1,6 +1,6 @@
 /* ASUS RT-N56U */
 
-#define BOARD_PID		"Padavan"
+#define BOARD_PID		"RT-N56U"
 #define BOARD_NAME		"RT-N56U"
 #define BOARD_DESC		"ASUS RT-N56U Wireless Router"
 #define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
