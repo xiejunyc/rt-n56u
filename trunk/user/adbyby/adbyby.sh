@@ -446,7 +446,7 @@ EEE
 	adbyby_adhost="/etc/storage/adbyby_adhost.sh"
 	if [ ! -f "$adbyby_adhost" ] || [ ! -s "$adbyby_adhost" ] ; then
 	cat > "$adbyby_adhost" <<-\EEE
-#已失效，无法过滤https协议
+tieba.baidu.com
 
 EEE
 	chmod 755 "$adbyby_adhost"
